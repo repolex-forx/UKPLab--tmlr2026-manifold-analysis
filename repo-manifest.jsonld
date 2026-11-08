@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/tmlr2026-manifold-analysis/commit/b2ac1d3af5b51bce596955bd973af4dbf6f7418b",
       "git:hexsha": "b2ac1d3af5b51bce596955bd973af4dbf6f7418b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
