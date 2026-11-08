@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/UKPLab/tmlr2026-manifold-analysis/commit/b2ac1d3af5b51bce596955bd973af4dbf6f7418b",
+  "@type": "git:Commit",
+  "git:hexsha": "b2ac1d3af5b51bce596955bd973af4dbf6f7418b",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/UKPLab/tmlr2026-manifold-analysis"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/b2ac1d3af5b51bce596955bd973af4dbf6f7418b.nq.gz",
+      "repolex:graphFileSize": 11747
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 44466
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 739
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 14466
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T17:33:27.073985+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
